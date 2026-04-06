@@ -4,7 +4,6 @@ Computer Science student at Guru Nanak Dev University.
 
 ## Currently Learning
 - Data Structures & Algorithms in Java
-- C++
 - Problem Solving
 
 ## Interests
